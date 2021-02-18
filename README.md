@@ -14,6 +14,6 @@ My skills include:
 - PostgreSQL
 
 ### 📫 Get in touch
-Reach out to me via mail: emilianoalfonso1989@gmail.com
-Portfolio: https://emiliano-alfonso.vercel.app/
+Reach out to me via mail: emilianoalfonso1989@gmail.com \
+Portfolio: https://emiliano-alfonso.vercel.app/ \
 LinkedIn: https://www.linkedin.com/in/emiliano-alfonso/
