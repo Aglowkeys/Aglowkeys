@@ -1,4 +1,4 @@
-## Hello! The name's Emiliano 👋
+## Hello there! I am Emiliano 👋
 
 I am a fullstack developer who loves creating beautiful things!
 Feel free to browse through my repositories. May I suggest you start with <a href="https://github.com/Aglowkeys/GamingHub">GamingHub</a>?
