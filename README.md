@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hello! The name's Emiliano 👋
 
-<!--
-**Aglowkeys/Aglowkeys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a fullstack developer who loves creating beautiful things!
+Feel free to browse through my repositories. May I suggest you start with <a href="https://github.com/Aglowkeys/GamingHub">GamingHub</a>?
 
-Here are some ideas to get you started:
+My skills include:
+- HTML & CSS
+- JavaScript
+- React
+- Redux
+- NodeJS & Express
+- Bootstrap & Tailwind CSS
+- Sass & Less
+- PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Get in touch
+Reach out to me via mail: emilianoalfonso1989@gmail.com
+Portfolio: https://emiliano-alfonso.vercel.app/
+LinkedIn: https://www.linkedin.com/in/emiliano-alfonso/
