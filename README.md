@@ -3,7 +3,7 @@
 I am a fullstack developer who loves creating beautiful things!
 Feel free to browse through my repositories. May I suggest you start with <a href="https://github.com/Aglowkeys/GamingHub">GamingHub</a>?
 
-My skills include:
+### My skills include:
 - HTML & CSS
 - JavaScript
 - React
@@ -13,7 +13,7 @@ My skills include:
 - Sass & Less
 - PostgreSQL
 
-Currently learning:
+### Currently learning:
 - Python
 - Next.js
 
