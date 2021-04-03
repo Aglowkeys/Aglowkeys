@@ -13,6 +13,10 @@ My skills include:
 - Sass & Less
 - PostgreSQL
 
+Currently learning:
+- Python
+- Next.js
+
 ### 📫 Get in touch
 Reach out to me via mail: emilianoalfonso1989@gmail.com \
 Portfolio: https://emiliano-alfonso.vercel.app/ \
