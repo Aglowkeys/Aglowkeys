@@ -24,4 +24,4 @@ Portfolio: https://emiliano-alfonso.vercel.app/ \
 LinkedIn: https://www.linkedin.com/in/emiliano-alfonso/
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=vue-dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aglowkeys&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
