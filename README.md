@@ -9,13 +9,14 @@ Feel free to browse through my repositories. May I suggest you start with <a hre
 - React
 - Redux
 - Next.js
-- NodeJS & Express
+- Node.js & Express
 - Bootstrap & Tailwind CSS
 - Sass & Less
 - PostgreSQL
 
 ### Currently learning:
 - Python
+- Vue.js
 
 ### 📫 Get in touch
 Reach out to me via mail: emilianoalfonso1989@gmail.com \
